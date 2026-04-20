@@ -1,116 +1,56 @@
-# Hi, I'm Abhishek
+# Abhishek
 
-🎓 Final Year Computer Science Student
-💻 Backend and Systems Developer
+Final Year Computer Science Student
+Backend and Systems Developer
 
----
+## About Me
 
-## 🧠 About Me
+I am a Computer Science student with a strong focus on backend development and distributed systems. I build scalable APIs, real-time systems, and data-driven platforms to solve practical engineering problems.
 
-I am a Computer Science student with a strong focus on backend development and system design. I have experience building full-stack applications and backend systems, with an emphasis on scalable APIs, real-time systems, and data-driven platforms.
+My primary interests include distributed systems, event-driven architectures, and AI-driven applications.
 
-I am particularly interested in distributed systems, AI-driven systems, and solving real-world engineering problems.
+## Technical Skills
 
----
+**Languages:** Python, JavaScript, C++
+**Backend:** Node.js, Express.js, REST API Design
+**Frontend:** React.js
+**Databases:** MySQL, MongoDB
+**Systems and Tools:** Docker, Git, Jenkins, Apache Kafka
 
-## 🛠 Technical Skills
+## Projects
 
-**Languages:**
-Python, JavaScript, C++
+### Real-Time Streaming System (Emostream)
 
-**Backend Development:**
-Node.js, Express.js, REST API Design
+Designed and implemented a real-time emoji broadcasting system using Apache Kafka and an event-driven architecture.
+Handled concurrent event streams with efficient message processing and scalable data flow.
 
-**Frontend Development:**
-React.js
+### Stock Portfolio and Risk Analysis Platform
 
-**Databases:**
-MySQL, MongoDB
+Built a full-stack platform for portfolio tracking and risk analysis.
+Implemented time-series forecasting and data-driven insights for financial decision-making.
 
-**Systems & Tools:**
-Docker, Git, Jenkins
+### DNS Server (Node.js)
 
----
+Implemented a custom DNS server supporting A, NS, and CNAME records.
+Developed a strong understanding of networking concepts and request resolution.
 
-## 🚀 Projects
+### Log Analytics System
 
-### 📊 Financial Risk Analysis
+Developed a pipeline to process and analyze logs for anomaly detection and system monitoring.
+Focused on efficient data handling and backend performance.
 
-* Developed a system to analyze financial risk across investment portfolios
-* Implemented data-driven metrics to evaluate volatility and risk exposure
-* Focused on building scalable backend logic for financial computations
+### E-commerce Backend
 
----
+Built scalable RESTful APIs for product management and user workflows.
+Emphasized clean architecture and maintainable backend design.
 
-### 📈 Stock Portfolio System
+## Additional Projects
 
-* Built a backend-driven system for tracking and managing investment portfolios
-* Implemented performance tracking, profit/loss analysis, and portfolio insights
-* Designed APIs to support real-time data updates and analytics
+* Kubernetes Failure Prediction (TrailMakers) – Predictive system for infrastructure reliability
+* E-Learning Platform – Backend system for structured content delivery
+* Digital Library System – Academic resource management system
 
----
-
-### 🧾 Log Analytics System
-
-* Designed a system to process and analyze logs for identifying patterns and anomalies
-* Useful for debugging, monitoring, and understanding system behavior
-* Focused on efficient data handling and analysis pipelines
-
----
-
-### ⚙️ Kubernetes Failure Prediction (TrailMakers)
-
-* Developed a system to predict failures in Kubernetes environments
-* Applied data analysis techniques to detect early warning signals
-* Focused on improving infrastructure reliability and system observability
-
----
-
-### 🌐 DNS Server (Node.js)
-
-* Implemented a custom DNS server using Node.js
-* Supported multiple record types including A, NS, and CNAME
-* Gained hands-on experience with networking concepts and request resolution
-
----
-
-### 🛒 E-commerce Backend
-
-* Built RESTful APIs for an e-commerce platform
-* Implemented core backend features including product management and user workflows
-* Focused on clean API design and scalable backend architecture
-
----
-
-### 🔒 Private Projects
-
-**E-Learning Platform**
-
-* Developed a platform for managing and delivering educational content
-* Included user management and structured content delivery
-
-**Digital Library System (University Project)**
-
-* Designed and developed a digital library platform for managing academic resources
-* Enabled efficient search, access, and organization of books and study materials
-* Focused on usability and scalable backend design
-
----
-
-## 📊 GitHub Stats
-
----
-
-## 📌 Highlights
-
-* Strong foundation in backend development and API design
-* Experience building real-world systems and analytical platforms
-* Interest in distributed systems and AI-based applications
-* Focus on writing clean, scalable, and maintainable code
-
----
-
-## 📫 Contact
+## Contact
 
 GitHub: https://github.com/ABHISHEK-YELMAMDI
-LinkedIn: (add your link here)
+LinkedIn: https://www.linkedin.com/in/abhishek-yelmamdi-5169a32aa/
